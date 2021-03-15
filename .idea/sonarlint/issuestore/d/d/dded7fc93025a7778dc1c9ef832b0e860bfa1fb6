@@ -1,0 +1,11 @@
+
+{
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(æ£‰•8ñøÎ¼è.
+H
+java:S1168-"+Return an empty collection instead of null.(¥¹ï8»ßÚ¼è.
+V
+java:S3400G"9Remove this method and declare a constant for this value.(”·³›8°øâ¼è.
+V
+java:S3400)"9Remove this method and declare a constant for this value.(”·³›8‰÷Ø¼è.
+H
+java:S11681"+Return an empty collection instead of null.(¥¹ï8äèÜ¼è.
